@@ -1,8 +1,8 @@
-Yii 2 Basic Project Template
+Yii 2 Shared Project Template
 ============================
 
 Yii 2 Shared Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
-rapidly creating small projects.
+rapidly creating small projects for shared hosting.
 
 The template contains the basic features including user login/logout and a contact page.
 It includes all commonly used configurations that would allow you to focus on adding new
@@ -46,7 +46,7 @@ Edit the file `config/db.php` with real data, for example:
 ```php
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=yii2basic',
+    'dsn' => 'mysql:host=localhost;dbname=yii2shared',
     'username' => 'root',
     'password' => '1234',
     'charset' => 'utf8',
