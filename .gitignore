@@ -13,7 +13,8 @@ nbproject
 Thumbs.db
 
 # composer vendor dir
-/vendor
+protected/vendor
+composer.lock
 
 # composer itself is not needed
 composer.phar
