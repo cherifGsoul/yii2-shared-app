@@ -37,7 +37,7 @@
                 {
                     "protected/runtime": "0777",
                     "assets": "0777",
-                    "yii": "0755"
+                    "protected/yii": "0755"
                 }
             ],
             "generateCookieValidationKey": [
